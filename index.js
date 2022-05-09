@@ -20,9 +20,9 @@ const app = {};
 //   console.log(err,data);
 // })
 
-data.delete('test','newFile',(err)=>{
-  console.log(err);
-})
+// data.delete('test','newFile',(err)=>{
+//   console.log(err);
+// })
 
 //app configuration
 // app.config = {
